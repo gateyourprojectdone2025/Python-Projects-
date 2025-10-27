@@ -477,23 +477,8 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## Common Project Structure (Example)
 
-```
-project_name/
-├─ app/
-│  ├─ models/
-│  ├─ views/
-│  ├─ templates/
-│  └─ static/
-├─ tests/
-├─ requirements.txt
-├─ Dockerfile
-├─ docker-compose.yml
-└─ README.md
-```
 
----
 
 
 
