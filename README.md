@@ -14,6 +14,8 @@
 
 ## 1.Hospital Management System Using Python.
 
+<img width="1868" height="905" alt="image" src="https://github.com/user-attachments/assets/8201193b-e54a-4a65-b65e-f2827db81ba6" />
+
 ## Project Overview
 
 This Hospital Management System (HMS) is a desktop/web-based application developed in Python to streamline hospital operations. The system helps hospital staff manage patients, doctors, appointments, medical records, billing, and pharmacy operations. It is designed for small to medium-sized hospitals and clinics as a starting point to extend features.
@@ -206,7 +208,8 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 2. Skillmate — Online Learning Platform (Python)
+## 2. Skillmate — Online Learning Platform 
+https://myuploads.getyourprojectdone.in/uploads/Screenshot%202025-09-09%20103350.png
 
 **Overview:** Skillmate is an online learning platform for courses, quizzes, video lessons, and progress tracking for learners and instructors.
 
@@ -282,7 +285,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 5. Postly — Social Media Web App (Python)
+## 5. Postly — Social Media Web App 
+<img width="1867" height="901" alt="image" src="https://github.com/user-attachments/assets/e17a19d4-11a4-4dd3-ba8c-018b5ae31eee" />
+
 
 **Overview:** Postly is a social platform for posting text, images, likes, comments, follow system, and basic feeds.
 
@@ -304,7 +309,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 6. Car Dealership Management System (Python)
+## 6. Car Dealership Management System 
+<img width="1867" height="901" alt="image" src="https://github.com/user-attachments/assets/b2e8c55d-9c51-410b-b965-98c4c7237b20" />
+
 
 **Overview:** Manage car inventory, sales, customers, financing, and service appointments.
 
@@ -323,7 +330,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 7. Bus Reservation System (Python)
+## 7. Bus Reservation System 
+<img width="1831" height="879" alt="image" src="https://github.com/user-attachments/assets/e7383b82-5c45-458a-b8b2-ec2415cfbb99" />
+
 
 **Overview:** Online bus ticket booking with seat selection, route management, bookings, cancellations, and payments.
 
@@ -344,7 +353,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 8. Unified Social Media & Collaboration Platform (Python)
+## 8. Unified Social Media & Collaboration Platform 
+
+<img width="1871" height="839" alt="image" src="https://github.com/user-attachments/assets/b74f438b-0fc1-42d8-9e69-36784f5740ba" />
 
 **Overview:** Combines social features (posts, profiles) with collaboration tools (projects, tasks, file sharing, chat) for teams and communities.
 
@@ -366,7 +377,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 9. Digital Shopping Platform Management (Python)
+## 9. Digital Shopping Platform Management 
+<img width="1885" height="828" alt="image" src="https://github.com/user-attachments/assets/c650e32d-d28d-4a90-9f0d-44cf6f23a8bf" />
+
 
 **Overview:** E‑commerce platform for listing products, carts, checkout, orders, admin product management, and vendor panels.
 
@@ -388,7 +401,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 10. Smart Coffee Shop Management System (Python)
+## 10. Smart Coffee Shop Management System 
+<img width="1856" height="915" alt="image" src="https://github.com/user-attachments/assets/9860ff19-0e29-4331-b2e4-76a69fa0dc52" />
+
 
 **Overview:** System for in-store order management, menu, inventory, POS, and loyalty programs.
 
@@ -408,7 +423,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 11. Student Management System (Python, Django)
+## 11. Student Management System 
+<img width="1902" height="847" alt="image" src="https://github.com/user-attachments/assets/6eb9d73e-e10e-45f1-870c-bcd92435dca4" />
+
 
 **Overview:** Manage student records, attendance, marks, timetables, and parent/teacher portals.
 
@@ -427,7 +444,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 12. Restaurant Management & Online Ordering System (Python)
+## 12. Restaurant Management & Online Ordering System 
+<img width="1851" height="892" alt="image" src="https://github.com/user-attachments/assets/f9bedb87-54f5-4e35-8000-e28a65a1488a" />
+
 
 **Overview:** Manage dine-in and online orders, menu, table reservations, kitchen tickets, and delivery.
 
@@ -446,7 +465,9 @@ This document contains concise, ready-to-use README templates for multiple Pytho
 
 ---
 
-## 13. Productivity and Academic Management System (Python)
+## 13. Productivity and Academic Management System
+<img width="1863" height="872" alt="image" src="https://github.com/user-attachments/assets/7670340b-1600-4870-8e2b-1dfef8e86ae3" />
+
 
 **Overview:** Tool for students to manage tasks, timetables, notes, study planner, and academic progress tracking.
 
