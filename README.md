@@ -310,7 +310,8 @@ https://myuploads.getyourprojectdone.in/uploads/Screenshot%202025-09-09%20103350
 ---
 
 ## 6. Car Dealership Management System 
-<img width="1867" height="901" alt="image" src="https://github.com/user-attachments/assets/b2e8c55d-9c51-410b-b965-98c4c7237b20" />
+<img width="1886" height="922" alt="image" src="https://github.com/user-attachments/assets/56f536a4-4df6-4d20-bd1d-d297acb3b2fc" />
+
 
 
 **Overview:** Manage car inventory, sales, customers, financing, and service appointments.
